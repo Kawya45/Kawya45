@@ -22,7 +22,6 @@ Each repository has a README with the results, the QA reports as PDFs, and (for 
 ## 📫 Contact
 
 - GitHub: [@Kawya45](https://github.com/Kawya45)
-- LinkedIn: *add your link here*
 - Email: tbkawya@gmail.com
 
 ---
