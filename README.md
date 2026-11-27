@@ -23,7 +23,7 @@ Each repository has a README with the results, the QA reports as PDFs, and (for 
 
 - GitHub: [@Kawya45](https://github.com/Kawya45)
 - Email: tbkawya@gmail.com
-- Linkedin: https://www.linkedin.com/in/kawya-jinasoma/
+- Linkedin: www.linkedin.com/in/kawya-jinasoma-
 
 ---
 *I'm currently looking for QA / software testing job opportunities.*
